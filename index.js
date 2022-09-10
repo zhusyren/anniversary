@@ -17,5 +17,3 @@ domReady(() => {
         }
     })
 });
-function play() {var audio = new Audio('' + linkmp3);audio.play();}
-linkmp3 = 'https://i.top4top.io/m_24440f4yp1.mp3';
