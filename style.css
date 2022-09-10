@@ -539,6 +539,18 @@ body .game_intro .dialogue.end {
 	padding: 8px;
 	border-radius: 5px;
 }
+.song {
+    visibility: hidden;
+}
+user agent stylesheet
+audio:not([controls]) {
+    display: none !important;
+}
+user agent stylesheet
+audio {
+    width: 300px;
+    height: 54px;
+}
 
 body .game_intro .dialogue label {
 	border-radius: 5px;
